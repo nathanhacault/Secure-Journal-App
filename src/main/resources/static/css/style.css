@@ -1,0 +1,49 @@
+.badge {
+    border: none;
+}
+.center {
+    text-align: center;
+}
+#main {
+    margin-top: 50px;
+    max-width: 800px;
+}
+
+#add-button {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+.clear{clear:both;}
+
+.entry .close {
+    color: #ff0000;
+}
+
+.entry-date {
+    width: 50%;
+    float: left;
+    color: dimgrey;
+}
+
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.entry .btn-group {
+    width: 10%;
+    float:right;
+}
+
+.entry-id {
+    width: 10%;
+    min-width: 10px;
+    float: left;
+}
+
+.oi {
+    top: 4px;
+}
